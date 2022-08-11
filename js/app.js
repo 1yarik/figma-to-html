@@ -1,5 +1,5 @@
 (() => {
-    "use strict"
+    "use strict";
     const modules_flsModules = {};
     function isWebp() {
         function testWebP(callback) {

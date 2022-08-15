@@ -1,4 +1,4 @@
 # figma-to-html
-SiThe Upside Down
+sThe Upside Down
 
 This is the website of an Italian restaurant

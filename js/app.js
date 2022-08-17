@@ -1,6 +1,6 @@
 (() => {
     'use strict';
-    const modules_flsModules = {};
+    const modules_flsModules = {/};
     function isWebp() {
         function testWebP(callback) {
             let webP = new Image;
